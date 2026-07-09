@@ -1,0 +1,17 @@
+# Ignore enviormental variables
+.env
+
+# Ignore IDE files
+.vs/
+.vscode/
+.idea/
+
+# Ignore build output
+bin/
+obj/
+node_modules/
+dist/
+
+# Ignore os files
+.DS_Store
+Thumbs.db
