@@ -1,3 +1,15 @@
+nav{
+    background-color: #333;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+
+nav li{
+    color: white;
+}
 body{
     font-family: Arial, sans-serif;
 }
