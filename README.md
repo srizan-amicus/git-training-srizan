@@ -15,6 +15,6 @@ Commit hash, commit message and Branch structure
 git diff HEAD~2 HEAD
  used this command and it compared the current commit with 2 commits above this commit.
 
- made a small change
+ made an update in the readme
  
 
