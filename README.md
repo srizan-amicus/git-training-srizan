@@ -18,4 +18,4 @@ git diff HEAD~2 HEAD
  made an update in the readme
  
 
-Quick fix while stash exists
+ A Quick fix while stash exists
