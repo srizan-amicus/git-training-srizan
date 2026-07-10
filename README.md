@@ -19,3 +19,10 @@ git diff HEAD~2 HEAD
  
 
  A Quick fix while stash exists
+
+ # Git rebase Demo
+ Added a line just for rebase demo, commit-1 
+
+ REBASE demo - commit 2
+
+ REBASE demo - commit 3
