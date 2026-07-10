@@ -14,3 +14,4 @@
  ## Why this strategy
  -Keeps production stable
  -Makes collaboration easier
+ - Allows parallel development
