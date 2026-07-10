@@ -18,3 +18,15 @@ git diff HEAD~2 HEAD
  made an update in the readme
  
 
+ A Quick fix while stash exists
+
+ # Git rebase Demo
+ Added a line just for rebase demo, commit-1 
+
+ REBASE demo - commit 2
+
+ REBASE demo - commit 3
+
+ REBASE demo - commit 4
+
+ REBASE demo -  commit 5
