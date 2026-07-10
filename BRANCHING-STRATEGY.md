@@ -53,9 +53,9 @@ main
  feature/<feature-name>
 
 Examples:
-feature/add-sidebar
-feature/add-footer
-feature/add-navigation
+- feature/add-sidebar
+- feature/add-footer
+- feature/add-navigation
 
 - Hotfix branches
 hotfix/urgent-fix
