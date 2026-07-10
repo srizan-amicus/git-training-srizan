@@ -26,3 +26,5 @@ git diff HEAD~2 HEAD
  REBASE demo - commit 2
 
  REBASE demo - commit 3
+
+ REBASE demo - commit 4
