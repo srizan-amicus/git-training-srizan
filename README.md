@@ -20,6 +20,9 @@ git diff HEAD~2 HEAD
 
  A Quick fix while stash exists
 
+ # What is a fast forward merge
+ fast forward merge is used to integrate changes when the target branch has not diverged from the source branch. Instead of creating a new "merge commit" it simply advances the target branch pointer to the latest commit on the source branch, resulting in a perfectly linear project history.
+
  # Git rebase Demo
  Added a line just for rebase demo, commit-1 
 
@@ -33,12 +36,3 @@ git diff HEAD~2 HEAD
 
 
 removed a few minor changes for task 17
-
-# Analysis for git blame
-I used git blame on readme which is the most frequently modified file in this repository. The command identified the commit responsible for each line in the file. This made it easier to trace specific changes. It also made it easy to track changes.
-
-In a Team project, git blame helps devs to understand code ownership and change history. If a bug appearsin a particular line, devs can quickly identify the commits that introduced the change. This simplifies debugging, code reviews and maintainence 
-
-For example
-- 3a9221c9  REBASE demo - commit 3
-- 578b0f96  A Quick fix while stash exists
