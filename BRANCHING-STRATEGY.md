@@ -1,5 +1,5 @@
 # Git Branching strategy followed
-for this project I used a feature based branching strategy
+for this project I used a Git Flow/feature based branching strategy
 - `main` contains the stable production ready code, protected from direct commits
 
 - `feature` branches were created for implementing new features such as navigation, footer, sidebar and rebase practices.
