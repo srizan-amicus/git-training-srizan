@@ -31,4 +31,5 @@ git diff HEAD~2 HEAD
 
  REBASE demo -  commit 5
 
- TODO: just for the testing purpose
+
+removed a few minor changes for task 17
